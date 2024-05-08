@@ -67,6 +67,15 @@ body{
     justify-content: center;
 }
 
+.mostrar__menu{
+    font-size: 1.3em;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 1em;
+    background-color: #85929E;
+}
+
 .adicionar__botao{
     font-size: 1.3em;
     width: 180px;
@@ -83,4 +92,8 @@ body{
     background: #98A0A8;
    font-family: 'Lora';
    font-size: 1em;
+}
+
+.hidden {
+    display: none;
 }
