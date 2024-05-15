@@ -1,6 +1,6 @@
 # Lista de Tarefas
 
-Projeeto desenvolvido com o intuito de tornar mais fácil e prático de lembrar tarefas que você tem que fazer durante o dia!
+Projeto desenvolvido com o intuito de tornar mais fácil e prático de lembrar tarefas que você tem que fazer durante o dia!
 
 ### Linguagens
 
